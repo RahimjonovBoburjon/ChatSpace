@@ -29,7 +29,7 @@ import { sendMessage as sendToAPI } from '../services/chatService'
 
 const messages = ref([
   {
-    text: 'Welcome to Chatspace! How can I help you today?',
+    text: 'Welcome to ChatSpace! How can I help you today?',
     sender: 'bot',
     timestamp: new Date()
   }

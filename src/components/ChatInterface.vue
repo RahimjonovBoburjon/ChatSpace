@@ -90,4 +90,4 @@ const updateLanguage = (lang) => {
 defineExpose({
   updateLanguage
 })
-</script> 
+</script>
